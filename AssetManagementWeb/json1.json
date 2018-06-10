@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "LocationCode": "DigiPoint",
+    "LocationName": "DigiPoint",
+    "AssetCode": "OpenLaptop",
+    "AssetName": "Kannettava: HP ProBook",
+    "LastSeen": "4.6.2018 18.10.52"
+  },
+  {
+    "id": 2,
+    "LocationCode": "DigiPoint",
+    "LocationName": "DigiPoint",
+    "AssetCode": "OpenLaptop",
+    "AssetName": "Kannettava: HP ProBook",
+    "LastSeen": "4.6.2018 18.14.38"
+  },
+  {
+    "id": 3,
+    "LocationCode": "DigiPoint",
+    "LocationName": "DigiPoint",
+    "AssetCode": "OpenLaptop",
+    "AssetName": "Kannettava: HP ProBook",
+    "LastSeen": "4.6.2018 18.39.06"
+  }
+]
